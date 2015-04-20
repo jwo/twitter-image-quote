@@ -32,6 +32,10 @@ You'll need:
 * The image file path
 
 
+### Ruby Versions
+
+I use required keyword arguments, so this is ruby 2.1+
+
 ### TODOs
 
 * Maybe possibly create the quote image automagically?

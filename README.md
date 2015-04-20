@@ -31,5 +31,16 @@ You'll need:
 * The article URL
 * The image file path
 
+
+### TODOs
+
+* Maybe possibly create the quote image automagically?
+* Better handle twitter authentication process. (deferring to `t` is cheap)
+
+### Extras
+
+Check out the RebuildUrl for ways to easily recreate the URL (click to tweet)
+
 ## Copyright
 
+MIT, see LICENSE

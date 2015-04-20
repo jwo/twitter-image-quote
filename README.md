@@ -10,7 +10,7 @@ http://blog.texmexconsulting.com/how-much-money-can-you-really-make-as-a-freelan
 
 ### ScreenShot
 
-![assets/twitter-image-quote.png]
+![image-quote](assets/twitter-image-quote.png)
 
 ### Example URL
 https://twitter.com/intent/tweet?text=Until+you+hear+%22Your+rates+are+too+high%22+on+a+frequent+basis%2C+your+rates+are+too+low+http://blog.texmexconsulting.com/how-much-money-can-you-really-make-as-a-freelancer/+http://pic.twitter.com/Dg4dRfLKfT
